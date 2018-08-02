@@ -20,6 +20,7 @@ trans.pl = api/src/main/resources/messages_pl.properties
 trans.it = api/src/main/resources/messages_it.properties
 trans.el = api/src/main/resources/messages_el.properties
 trans.ru = api/src/main/resources/messages_ru.properties
+trans.kk = api/src/main/resources/messages_kk.properties
 trans.lt = api/src/main/resources/messages_lt.properties
 trans.hy = api/src/main/resources/messages_hy.properties
 trans.te = api/src/main/resources/messages_te.properties
